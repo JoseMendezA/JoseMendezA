@@ -7,14 +7,14 @@
 
 ### 🌟 Sobre Mí
 
-Soy ingeniero electricista y electrónico apasionado por la tecnología y la innovación. Creo firmemente en el poder de la diversidad y la inclusión en la industria tecnológica.
+Soy ingeniero un electricista y electrónico apasionado por la tecnología y la innovación. Creo firmemente en el poder de la diversidad y la inclusión en la industria tecnológica.
 
 - 💼 Actualmente trabajando en: Pontifical Bolivarian University/Associate professor
 - 🌱 Aprendiendo: PostgreSQL
 - 👯 Buscando colaborar en: Web Scraping
 - 💬 Pregúntame sobre: Algoritmos Evolutivos y optimización
 - 📫 Cómo contactarme: dilio.mendez@upb.edu.co
-- 🌐 Sitio web: ...En construcción..
+- 🌐 Sitio web: (https://orcid.org/0009-0002-7695-8947)
 
 ### 💼 Experiencia
 
@@ -25,13 +25,14 @@ Soy ingeniero electricista y electrónico apasionado por la tecnología y la inn
 
 ### 📈 Habilidades
 
-- **Lenguajes:** Python, CSS, HTML, Matlab, PHP
+- **Lenguajes:** Python, Matlab, PHP, R
+- Desarrollo Web:** CSS, HTML5
 - **Frameworks:** React, Node.js, Spring Boot
-- **Herramientas:** Git, Latex
+- **Herramientas:** Git, GitHub, Trello, Latex
 
 ### 🌐 Encuéntrame en:
 
-- [LinkedIn](in/dilio-méndez-abad-mSc)
+- [LinkedIn](www.linkedin.com/in/dilio-mendez-abad-msc)
 - [Twitter](https://twitter.com/dilio_mendez)
 - [Sitio Web](https://orcid.org/0009-0002-7695-8947)
 

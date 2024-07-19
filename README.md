@@ -14,7 +14,7 @@ Soy ingeniero un electricista y electrónico apasionado por la tecnología y la 
 - 👯 Buscando colaborar en: Web Scraping
 - 💬 Pregúntame sobre: Algoritmos Evolutivos y optimización
 - 📫 Cómo contactarme: dilio.mendez@upb.edu.co
-- 🌐 Sitio web: [Sitio Web](https://orcid.org/0009-0002-7695-8947)
+- 🌐 Sitio web: [Dilio Mendez](https://orcid.org/0009-0002-7695-8947)
 
 ### 💼 Experiencia
 
@@ -26,7 +26,7 @@ Soy ingeniero un electricista y electrónico apasionado por la tecnología y la 
 ### 📈 Habilidades
 
 - **Lenguajes:** Python, Matlab, PHP, R
-- Desarrollo Web:** CSS, HTML5
+- **Desarrollo Web:** CSS, HTML5
 - **Frameworks:** React, Node.js, Spring Boot
 - **Herramientas:** Git, GitHub, Trello, Latex
 

@@ -14,7 +14,7 @@ Soy ingeniero un electricista y electrónico apasionado por la tecnología y la 
 - 👯 Buscando colaborar en: Web Scraping
 - 💬 Pregúntame sobre: Algoritmos Evolutivos y optimización
 - 📫 Cómo contactarme: dilio.mendez@upb.edu.co
-- 🌐 Sitio web: (https://orcid.org/0009-0002-7695-8947)
+- 🌐 Sitio web: [Sitio Web](https://orcid.org/0009-0002-7695-8947)
 
 ### 💼 Experiencia
 
@@ -32,7 +32,7 @@ Soy ingeniero un electricista y electrónico apasionado por la tecnología y la 
 
 ### 🌐 Encuéntrame en:
 
-- [LinkedIn](www.linkedin.com/in/dilio-mendez-abad-msc)
+- [LinkedIn](https://www.linkedin.com/in/dilio-mendez-abad-msc/)
 - [Twitter](https://twitter.com/dilio_mendez)
 - [Sitio Web](https://orcid.org/0009-0002-7695-8947)
 

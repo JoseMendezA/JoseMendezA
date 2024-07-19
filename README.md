@@ -1,6 +1,5 @@
 
-<!--
-**JoseMendezA/JoseMendezA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
  Hola, soy Dilio José Méndez Abad 👩‍💻
 
@@ -8,32 +7,32 @@
 
 ### 🌟 Sobre Mí
 
-Soy una ingeniera de software apasionada por la tecnología y la innovación. Creo firmemente en el poder de la diversidad y la inclusión en la industria tecnológica.
+Soy una ingeniero de software apasionado por la tecnología y la innovación. Creo firmemente en el poder de la diversidad y la inclusión en la industria tecnológica.
 
-- 💼 Actualmente trabajando en: [Empresa/Proyecto Actual]
-- 🌱 Aprendiendo: [Tecnología o Habilidad]
+- 💼 Actualmente trabajando en: Pontifical Bolivarian University/Associate professor]
+- 🌱 Aprendiendo: PostgreSQL
 - 👯 Buscando colaborar en: [Tipo de Proyecto]
-- 💬 Pregúntame sobre: [Áreas de Conocimiento]
-- 📫 Cómo contactarme: [Tu Email]
-- 🌐 Sitio web: [Tu Sitio Web]
+- 💬 Pregúntame sobre: Algoritmos Evolutivos y optimización
+- 📫 Cómo contactarme: dilio.mendez@upb.edu.co
+- 🌐 Sitio web: ...En construcción..
 
 ### 💼 Experiencia
 
-- **[Puesto Actual]** en [Empresa]
-  - Descripción de tus responsabilidades y logros.
-- **[Puesto Anterior]** en [Empresa]
-  - Descripción de tus responsabilidades y logros.
+- **Associate professor** en Pontifical Bolivarian University
+  - Docente a cargo de Gestión Tecnológica y otros tópicos.
+- **Especialista Eléctrico** en TNM LIMITED
+  - Soterramiento de redes de comunicaciones, media y baja tensión.
 
 ### 📈 Habilidades
 
-- **Lenguajes:** Python, JavaScript, Java
+- **Lenguajes:** Python, CSS, HTML, Matlab, PHP
 - **Frameworks:** React, Node.js, Spring Boot
-- **Herramientas:** Git, Docker, Kubernetes
+- **Herramientas:** Git, Latex
 
 ### 🌐 Encuéntrame en:
 
-- [LinkedIn](https://linkedin.com/in/tu-usuario)
-- [Twitter](https://twitter.com/tu-usuario)
-- [Sitio Web](https://tu-sitio-web.com)
+- [LinkedIn](in/dilio-méndez-abad-mSc)
+- [Twitter](https://twitter.com/dilio_mendez)
+- [Sitio Web]([https://tu-sitio-web.com](https://orcid.org/0009-0002-7695-8947))
 
 ![Footer Image](https://example.com/tu-imagen-de-footer.jpg)

@@ -7,7 +7,7 @@
 
 ### 🌟 Sobre Mí
 
-Soy ingeniero un electricista y electrónico apasionado por la tecnología y la innovación. Creo firmemente en el poder de la diversidad y la inclusión en la industria tecnológica.
+Soy un ingeniero electricista y electrónico apasionado por la tecnología y la innovación. Creo firmemente en el poder de la diversidad y la inclusión en la industria tecnológica.
 
 - 💼 Actualmente trabajando en: Pontifical Bolivarian University/Associate professor
 - 🌱 Aprendiendo: PostgreSQL

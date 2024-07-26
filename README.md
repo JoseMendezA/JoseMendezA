@@ -29,6 +29,7 @@ Soy un ingeniero electricista y electrónico apasionado por la tecnología y la 
 - **Desarrollo Web:** CSS, HTML5
 - **Frameworks:** React, Node.js, Spring Boot
 - **Herramientas:** Git, GitHub, Trello, Latex, Odoo, GAMS, Overleaf
+- **Bases de Datos:** PostgreSQL
 
 ### 🌐 Encuéntrame en:
 

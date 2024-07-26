@@ -28,7 +28,7 @@ Soy un ingeniero electricista y electrónico apasionado por la tecnología y la 
 - **Lenguajes:** Python, Matlab, PHP, R
 - **Desarrollo Web:** CSS, HTML5
 - **Frameworks:** React, Node.js, Spring Boot
-- **Herramientas:** Git, GitHub, Trello, Latex
+- **Herramientas:** Git, GitHub, Trello, Latex, Odoo, GAMS, Overleaf
 
 ### 🌐 Encuéntrame en:
 
